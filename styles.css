@@ -1,0 +1,42 @@
+.background{
+    background-color:black;
+}
+.post{
+    background-color:white;
+    color: black; 
+    border: 2px solid rgb(0, 0, 0);
+    width: 25%;
+}
+
+.center{
+        margin: auto;
+        width: 25%;
+        border: 1px solid rgb(0, 0, 0);
+        padding: 10px;
+    }
+
+#logo{ 
+        float: left;
+        
+        width:60px;
+        height:60px;
+        padding-top: 5px
+    }
+
+#landscape{
+    width:107%;
+    box-sizing: border-box;
+}
+
+.icons{
+    display:flex;
+    padding: 0px 10px 0px 1px;
+}
+
+.iconspecial{
+    padding-left: 220px;
+}
+
+.parrafo{
+    font-family: 'Roboto', sans-serif;
+}
